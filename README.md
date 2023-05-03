@@ -17,13 +17,13 @@ This project involved the process of cleaning online retail store dataset using 
 ## Skills/Concepts demonstrated:
 
 The following Tableau features were incorporated:
-- filters 
-- tooltips
-- details
-- color
-- size
-- label 
-- measures
+- Filters 
+- Tooltips
+- Details
+- Color
+- Size
+- Label 
+- Measures
 - Show Me
 
 ## Visualization:
@@ -65,7 +65,7 @@ The following Tableau features were incorporated:
  ### Dashboard:
  ![](https://github.com/Londonfc22/Data-Analystic-Project/blob/main/Dashboard%201.png%20image%201.png)
  
-This report shows an interactive dashborad of the analysis.
+This report shows an interactive dashboard of the analysis.
 
 ### Story:
 
