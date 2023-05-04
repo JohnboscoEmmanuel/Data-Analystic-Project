@@ -15,6 +15,14 @@ This project involved the process of cleaning online retail store dataset using 
 4. Who are the customers that have repeated the cost? How much are contributing to revenue.
 
 ## Skills/Concepts demonstrated:
+Data cleaning process
+
+  - Spell checking
+  - Removing duplicate rows
+  - Finding and replacing text
+  - Changing the case of the text
+  - fixing dates and time
+  - transforming and rearranging columns and rows.
 
 The following Tableau features were incorporated:
 - Filters 
@@ -25,6 +33,12 @@ The following Tableau features were incorporated:
 - Label 
 - Measures
 - Show Me
+
+## Data cleaning:
+![](https://github.com/Londonfc22/Data-Analystic-Project/blob/main/Excel%20dataset%20project%201.png)
+
+Cleaning of the data was very crucial in data analysis. It ensure data are consistent, accurate result, reliable and enable us to make a better decission.
+
 
 ## Visualization:
 
