@@ -37,7 +37,7 @@ The following Tableau features were incorporated:
 ## Data cleaning:
 ![](https://github.com/Londonfc22/Data-Analystic-Project/blob/main/Excel%20dataset%20project%201.png)
 
-Cleaning of the data was very crucial in data analysis. It ensure data  consistent, accurate result, reliable and enable us to make a better decission.
+Cleaning of the data was very crucial in data analysis. It ensure that data are consistent, accurate result, reliable and enable us to make a better decission.
 
 
 ## Visualization:
@@ -69,7 +69,7 @@ Cleaning of the data was very crucial in data analysis. It ensure data  consiste
  ![](https://github.com/Londonfc22/Data-Analystic-Project/blob/main/revenue%20generated%20by%20customer%20that%20order%20more%20than%20once%20image.png) 
  
  This report shows revenue generated from customers that ordered more than once in descending order.
- these are customer that made multiple order occasionally or customer who ordered multiple item at thesame time. additionally, the report made us to understand      that the customer ID who ordered the most (14646), did not generate the highest revenue. This may be as a result of discount or there is promotions in some product     the customer ordered and these can reduce the revenue the customer would have generated for the company. 
+ these are customer that made multiple order occasionally or customer who ordered multiple item at thesame time. additionally, from the report it is understandable     that the customer ID who ordered the most (14646), did not generate the highest revenue. This may be as a result of discount or there is promotions in some product     the customer ordered and these could reduce the revenue the customer would have generated for the company. 
  
  
  ### Customers that repeated the most in descending order:
@@ -77,7 +77,9 @@ Cleaning of the data was very crucial in data analysis. It ensure data  consiste
  ![](https://github.com/Londonfc22/Data-Analystic-Project/blob/main/customer%20that%20repeated%20the%20most%20in%20descending%20order.png)
  
  This report shows customers that ordered goods repeatedly and revenue they generated in descending order.
- These are customers that ordered some products repeatedly either daily, weekly, monthly or yearly. we can describe this kind of customers as a loyal customers.
+ These are customers that ordered some products repeatedly either daily, weekly, monthly or yearly. This kind of customers is mainly describe as a loyal customers who may value the product of the company and continue to order from the company.
+ 
+ 
  
  ### Dashboard:
  ![](https://github.com/Londonfc22/Data-Analystic-Project/blob/main/Dashboard%201.png%20image%201.png)
