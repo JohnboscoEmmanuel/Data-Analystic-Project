@@ -69,7 +69,7 @@ Cleaning of the data was very crucial in data analysis. It ensure that data are 
  ![](https://github.com/Londonfc22/Data-Analystic-Project/blob/main/revenue%20generated%20by%20customer%20that%20order%20more%20than%20once%20image.png) 
  
  This report shows revenue generated from customers that ordered more than once in descending order.
- these are customer that made multiple order occasionally or customer who ordered multiple item at thesame time. additionally, from the report it is understandable     that the customer ID who ordered the most (14646), did not generate the highest revenue. This may be as a result of discount or there is promotions in some product     the customer ordered and these could reduce the revenue the customer would have generated for the company. 
+ these are customer that made multiple order occasionally or customer who ordered multiple item at thesame time. additionally, from the report it is understandable     that the customer ID who ordered the most (14646), did not generate the highest revenue. This may be as a result of discount or there is promotions in some product     the customer ordered and these could reduce the revenue the customer would have generated for the company. In summary, it is not guaranteed that the customer who order the most will generate the highest revenue for the company because the prices, discounts and promotions can vary and affect the actual revenue generated per order.
  
  
  ### Customers that repeated the most in descending order:
