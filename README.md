@@ -37,7 +37,7 @@ The following Tableau features were incorporated:
 ## Data cleaning:
 ![](https://github.com/Londonfc22/Data-Analystic-Project/blob/main/Excel%20dataset%20project%201.png)
 
-Cleaning of the data was very crucial in data analysis. It ensure data are consistent, accurate result, reliable and enable us to make a better decission.
+Cleaning of the data was very crucial in data analysis. It ensure data  consistent, accurate result, reliable and enable us to make a better decission.
 
 
 ## Visualization:
@@ -62,19 +62,22 @@ Cleaning of the data was very crucial in data analysis. It ensure data are consi
  
  ![](https://github.com/Londonfc22/Data-Analystic-Project/blob/main/Region%20with%20highestlowest%20revenue.png)
  
- This report shows region that generated highest revenue for the company, which is United Kingdom (£1,038,524) and region that generated the lowest revenue for the company, which is Saudi Arabia (£21.2).
+ This report shows region that generated highest revenue for the company, which is United Kingdom (£1,038,524) and region that generated the lowest revenue for the      company, which is Saudi Arabia (£21.2).
  
  ### Revenue genrated from customers that ordered more than once.
  
  ![](https://github.com/Londonfc22/Data-Analystic-Project/blob/main/revenue%20generated%20by%20customer%20that%20order%20more%20than%20once%20image.png) 
  
  This report shows revenue generated from customers that ordered more than once in descending order.
+ these are customer that made multiple order occasionally or customer who ordered multiple item at thesame time. additionally, the report made us to understand      that the customer ID who ordered the most (14646), did not generate the highest revenue. This may be as a result of discount or there is promotions in some product     the customer ordered and these can reduce the revenue the customer would have generated for the company. 
+ 
  
  ### Customers that repeated the most in descending order:
  
  ![](https://github.com/Londonfc22/Data-Analystic-Project/blob/main/customer%20that%20repeated%20the%20most%20in%20descending%20order.png)
  
- This report shows customers that ordered goods repeatedly and revenue they generated in descending order:
+ This report shows customers that ordered goods repeatedly and revenue they generated in descending order.
+ These are customers that ordered some products repeatedly either daily, weekly, monthly or yearly. we can describe this kind of customers as a loyal customers.
  
  ### Dashboard:
  ![](https://github.com/Londonfc22/Data-Analystic-Project/blob/main/Dashboard%201.png%20image%201.png)
