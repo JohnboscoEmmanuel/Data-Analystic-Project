@@ -12,7 +12,7 @@ This project involved the process of cleaning online retail store dataset using 
 1. What is the monthly trend of revenue, which month faced the biggest increase/ decrease.
 2. Which region is generating the highest revenue, and which region is generating the lowest.
 3. What revenue is being generated from the customers who have ordered more than once.
-4. Who are the customers that have repeated the cost? How much are contributing to revenue.
+4. Who are the customers that have repeated the most?
 
 ## Skills/Concepts demonstrated:
 Data cleaning process
