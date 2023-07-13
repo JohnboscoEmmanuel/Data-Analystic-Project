@@ -49,7 +49,7 @@ Cleaning of the data was very crucial in data analysis. It ensure that data are 
 5. Dashboard
 6. story
 
- ## YOU CAN INTERACT WITH THE REPORT [CLICK THIS link](https://public.tableau.com/app/profile/johnbosco.emmanuel/viz/BoscoProject1/Story1?publish=yes)
+ ## YOU CAN INTERACT WITH THE REPORT [by clicking this link](https://public.tableau.com/app/profile/johnbosco.emmanuel/viz/BoscoProject1/Story1?publish=yes)
  
  ## Analysis:
  ### Monthly trend of revenue.
